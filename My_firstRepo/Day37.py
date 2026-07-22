@@ -1,3 +1,4 @@
+#Finally Keyword in Python
 #Finally Clause
 #The finally code block is also a part of exception handling. When we handle exception using the try and accept block. we can include a finally block at the end. The finally block is always executed, so it is generally used for doing the concluding  tasks like closing thw resources or closing databases connection or may be ending the program execution with a delightful message.
 try:
