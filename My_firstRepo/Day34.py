@@ -1,3 +1,4 @@
+#Methods of Dictionaries
 ep1 = {122: 45, 123: 80, 567: 89, 670: 69}
 ep2 = {222: 67, 566: 90}
 #ep1.update(ep2) #this will upload ep2 in ep1 
